@@ -22,11 +22,9 @@ The page is built entirely in **Next.js 16 / React 19**, driven by a **custom, d
 
 ---
 
-## Demo
+<video src="https://raw.githubusercontent.com/Vish2BDev/vanta-os-landing/master/public/demo/vanta-os-scroll-demo.webm" controls width="100%"></video>
 
-![Vanta OS Scroll Demo](https://github.com/Vish2BDev/vanta-os-landing/raw/master/public/demo/Screenrecording.mp4)
-
-> 🎬 **[Click here to watch / download the MP4 video directly](https://github.com/Vish2BDev/vanta-os-landing/raw/master/public/demo/Screenrecording.mp4)** — hero canvas scrubber → 7-screen product demo → escape-velocity chart → prompt console → waitlist.
+> 🎬 **[▶ Click here to open full-screen video on GitHub](https://github.com/Vish2BDev/vanta-os-landing/blob/master/public/demo/vanta-os-scroll-demo.webm)** (Hero canvas scrubber → 7-screen product demo → escape-velocity chart → prompt console → waitlist).
 
 ---
 
