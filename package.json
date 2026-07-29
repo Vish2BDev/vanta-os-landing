@@ -1,8 +1,8 @@
 {
-  "name": "vanta-os-recreation",
+  "name": "vanta-os-landing",
   "version": "1.0.0",
   "private": true,
-  "description": "A pixel-perfect front-end recreation of the Vanta OS marketing site, built from scratch in Next.js 16 with a scroll-driven canvas hero and a fully custom scroll-choreography engine.",
+  "description": "Freelance landing page for Vanta OS — scroll-choreography engine, 201-frame canvas hero, 7-screen product demo. Built in Next.js 16 / React 19. No animation library.",
   "author": "Vishal Bhandari",
   "license": "MIT",
   "engines": {
@@ -14,7 +14,8 @@
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
-    "check": "npm run lint && npm run typecheck && npm run build"
+    "check": "npm run lint && npm run typecheck && npm run build",
+    "record:demo": "npx tsx scripts/record-demo.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",
@@ -29,6 +30,7 @@
     "tw-animate-css": "^1.4.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.62.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^24",
     "@types/react": "^19",
