@@ -24,7 +24,7 @@ The page is built entirely in **Next.js 16 / React 19**, driven by a **custom, d
 
 ## Demo
 
-<video src="public/demo/Screenrecording.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/Vish2BDev/vanta-os-landing/master/public/demo/Screenrecording.mp4" controls width="100%"></video>
 
 > Full scroll walkthrough — hero canvas scrubber → 7-screen product demo → escape-velocity chart → prompt console → waitlist. Scroll back rewinds all animations.
 
